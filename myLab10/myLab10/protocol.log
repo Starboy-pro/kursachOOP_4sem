@@ -1,0 +1,22 @@
+2022-06-05 13:46:39,391 INFO  class:841 - Start app
+2022-06-05 13:46:40,128 INFO  class:844 - Finish app
+2022-06-05 13:47:14,752 INFO  class:841 - Start app
+2022-06-05 13:47:15,489 INFO  class:844 - Finish app
+2022-06-05 13:47:24,401 WARN  class:232 - Ошибка DocumentException
+com.itextpdf.text.DocumentException: The document is not open yet; you can only add Meta information.
+	at com.itextpdf.text.Document.add(Document.java:271)
+	at edu.java.lab66.laba10.make_report(laba10.java:229)
+	at edu.java.lab66.laba10$4.lambda$0(laba10.java:395)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-06-05 13:47:57,030 WARN  class:232 - Ошибка DocumentException
+com.itextpdf.text.DocumentException: The document is not open yet; you can only add Meta information.
+	at com.itextpdf.text.Document.add(Document.java:271)
+	at edu.java.lab66.laba10.make_report(laba10.java:229)
+	at edu.java.lab66.laba10$4.lambda$0(laba10.java:395)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+2022-06-05 22:36:04,018 INFO  class:841 - Start app
+2022-06-05 22:36:05,320 INFO  class:844 - Finish app
+2022-06-05 22:36:10,893 DEBUG class:644 - The month was not selected!
+2022-06-05 22:36:11,290 DEBUG class:644 - The month was not selected!
+2022-06-05 22:36:14,644 DEBUG class:827 - The track was not selected!
+2022-06-05 22:36:15,032 DEBUG class:827 - The track was not selected!
